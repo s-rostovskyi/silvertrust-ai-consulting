@@ -4,7 +4,7 @@ A two-day AI consulting exercise covering sector research, client discovery, and
 
 ## Recommendation
 
-Pilot a practice card that helps beginners work through a difficult chord change and resume the same passage in their next session. Then test whether AI improves drill selection compared with simple rules.
+Propose a six-week pilot at Fretway Learning, the client platform in the case. Test whether a rule-based practice card helps beginners get past a difficult chord change and return to the same passage. Track trial-to-paid conversion alongside practice outcomes. Test AI drill selection against simple rules if drill choice remains difficult.
 
 ## Deliverables
 
